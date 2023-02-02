@@ -10,6 +10,11 @@ First I created the project using:
 Then you will need to navigate to `/ACM-App` inside of the repository
 
 1. Run ``npm install`
-2. If need type `npm audit --force` to fix any npm packages. _Note_ you maybe need to install expo after this step if so type `npm install -g expo-cli` (sudo may be need before command if using a Linux OS).
+2. If need type `npm audit --force` to fix any npm packages.
 3. Type `expo start` to begin using Expo, with Expo Go on your phone to live test changes.
 4. App should be running locally now.
+
+## Notes
+
+- You maybe need to install expo if so type `npm install -g expo-cli` (sudo may be need before command if using a Linux OS).
+- I had trouble getting expo start on my Linux OS until I used ``sudo expo update`
