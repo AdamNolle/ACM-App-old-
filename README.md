@@ -17,4 +17,4 @@ Then you will need to navigate to `/ACM-App` inside of the repository
 ## Notes
 
 - You maybe need to install expo if so type `npm install -g expo-cli` (sudo may be need before command if using a Linux OS).
-- I had trouble getting expo start on my Linux OS until I used ``sudo expo update`
+- I had trouble getting expo start on my Linux OS until I used `sudo expo update`
